@@ -1,0 +1,14 @@
+- Crear aplicacion Dominguezclase_app 
+- Comando --> python manage.py startapp Dominguezclase_app
+- Creamos el archivo urls.py en Dominguezclase_app
+- ![alt text](image-1.png)
+- En setting.py de p2clase1061
+- ![alt text](image.png)
+- En urls.py de p2clase1061
+- ![alt text](image-2.png)
+- En urls.py en Dominguezclase_app
+- ![alt text](image-3.png)
+- En views.py en Dominguezclase_app
+- ![alt text](image-4.png)
+- En urls.py en Dominguezclase_app
+- ![alt text](image-5.png)
